@@ -1,0 +1,7 @@
+---
+domain: domain-name
+projectKey: project-key
+issueType: Task
+fields:
+  description: "test"
+  summary: "Test"
